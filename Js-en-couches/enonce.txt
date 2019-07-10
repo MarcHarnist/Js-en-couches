@@ -1,0 +1,16 @@
+/*
+* 1- Découper le code en 3 couches de responsabilités dans 3 fichiers différents 
+* 	 sous forme de librairie : bo (bo.js), service(service.js) et controleur(controleur.js)
+*    Indice : 	Passer en paramètre de la librairie service, la librairie bo 
+* 				et en parametre de la librairie controleur, la librairie service.
+
+
+* 2- Proposer une librairie service dans le fichier serviceLocalStorage.js permettant de remplacer 
+*    la librairie disponible dans le fichier service.js sans qu'il n'y ait d'impact sur les autres librairies.
+*    Cette nouvelle librairie permettra de gérer le tableau de savoirs inutiles dans le localStorage.
+*    Rappel :	La lecture du tableau dans le localStorage ne vous rendra pas des objets de "type" SavoirInutile.
+*               Il faut réassocier les prototype du type SavoirInutile à l'objet présent dans le tableau.
+*	        Pour cela, il faut utiliser la méthode Object.setPrototypeOf().
+*
+*		Attention aussi au type de la date (ce sera une chaine de caractère qu'il faudra transformer en Date)
+*/
