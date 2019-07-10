@@ -1,15 +1,14 @@
 /**
  *  ENI School - France - Niort
  *  2019-07-10
- *
  */
 
 /** Contains all classes of this project **/
 var bo = (function(){
+
     var libBo = {};
 
-    libBo.SavoirUtile = class
-    {
+    libBo.SavoirUtile = class {
     
         chargementTermine()
         {
@@ -82,6 +81,23 @@ var bo = (function(){
 	        document.getElementById("libelleSavoir").focus();
 	    }
     }
+    libBo.AutreClass1 = class {
+		afficher(){
+			console.log('Console.log de la classe "AutreClasse1"');
+		}
+	}
+	libBo.AutreClass2 = class {
+    	afficher()
+		{
+    		console.log('Console.log de la classe "AutreClasse2"');
+		}
+    }
+    libBo.AutreClass3 = class {
+    	afficher(){
+    		console.log('Console.log de la classe "AutreClasse3"');
+    	}
+    }
+
     return libBo;
 })
 (); // () means: execute
