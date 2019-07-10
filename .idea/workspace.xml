@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be4edaec-4b16-4e43-b64a-00615d0d0942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Js-en-couches/js/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js-en-couches/js/TPModule2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Js-en-couches/bll/Js-en-couches.html" beforeDir="false" afterPath="$PROJECT_DIR$/Js-en-couches/bll/Js-en-couches.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Js-en-couches/bll/Test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Js-en-couches/bo/library.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-en-couches/bo/library.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Js-en-couches/js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Js-en-couches/bll/js/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Js-en-couches/js/controler.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-en-couches/bll/js/controler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Js-en-couches/js/metiers.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-en-couches/bll/js/metiers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Js-en-couches/js/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-en-couches/bll/js/services.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,22 +23,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/Js-en-couches.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="650">
+              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Js-en-couches/js/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/js/metiers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Js-en-couches/js/TPModule2.js">
+        <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/js/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="110">
               <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/js/controler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -46,10 +59,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Js-en-couches/bo/library.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="832">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
               <folding>
-                <element signature="e#171#2779#0" />
                 <element signature="e#220#374#0" />
                 <element signature="e#423#513#0" />
                 <element signature="e#536#2017#0" />
@@ -57,7 +69,6 @@
                 <element signature="e#2522#2773#0" />
                 <element signature="e#2813#2889#0" />
                 <element signature="e#2914#2990#0" />
-                <element signature="e#3015#3091#0" />
               </folding>
             </state>
           </provider>
@@ -83,6 +94,9 @@
         <option value="$PROJECT_DIR$/Js-en-couches/library.js" />
         <option value="$PROJECT_DIR$/Js-en-couches/bo/library.js" />
         <option value="$PROJECT_DIR$/Js-en-couches/js/TPModule2.js" />
+        <option value="$PROJECT_DIR$/Js-en-couches/js/services.js" />
+        <option value="$PROJECT_DIR$/Js-en-couches/js/TPModule3.js" />
+        <option value="$PROJECT_DIR$/Js-en-couches/js/metiers.js" />
         <option value="$PROJECT_DIR$/Js-en-couches/bll/Js-en-couches.html" />
       </list>
     </option>
@@ -122,13 +136,14 @@
               <item name="js-en-couches" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-en-couches" type="462c0819:PsiDirectoryNode" />
               <item name="Js-en-couches" type="462c0819:PsiDirectoryNode" />
-              <item name="bo" type="462c0819:PsiDirectoryNode" />
+              <item name="bll" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js-en-couches" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-en-couches" type="462c0819:PsiDirectoryNode" />
               <item name="Js-en-couches" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="bo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,15 +156,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Js-en-couches" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Js-en-couches/js" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrateur\git\js-en-couches\Js-en-couches\bll" />
+      <recent name="C:\Users\Administrateur\git\js-en-couches\Js-en-couches\backups" />
       <recent name="C:\Users\Administrateur\git\js-en-couches\Js-en-couches\bo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrateur\git\js-en-couches\Js-en-couches\js" />
       <recent name="C:\Users\Administrateur\git\js-en-couches\Js-en-couches" />
       <recent name="C:\Users\Administrateur\git\js-en-couches\Js-en-couches\bll" />
     </key>
@@ -176,15 +194,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562762817798</updated>
-      <workItem from="1562762819023" duration="3547000" />
+      <workItem from="1562762819023" duration="5617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3547000" />
+    <option name="totallyTimeSpent" value="5617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17492098" />
@@ -194,7 +213,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -225,22 +244,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Js-en-couches/js/TPModule2.js">
+    <entry file="file://$PROJECT_DIR$/Js-en-couches/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-en-couches/backups/TPModule2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Js-en-couches/.project">
+    <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/js/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Js-en-couches/bo/library.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="832">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
           <folding>
-            <element signature="e#171#2779#0" />
             <element signature="e#220#374#0" />
             <element signature="e#423#513#0" />
             <element signature="e#536#2017#0" />
@@ -248,18 +269,35 @@
             <element signature="e#2522#2773#0" />
             <element signature="e#2813#2889#0" />
             <element signature="e#2914#2990#0" />
-            <element signature="e#3015#3091#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Js-en-couches/js/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/js/controler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/js/metiers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Js-en-couches/bll/Js-en-couches.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="650">
+          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
