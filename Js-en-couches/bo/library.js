@@ -81,6 +81,7 @@ var bo = (function(){
 	        document.getElementById("libelleSavoir").focus();
 	    }
     }
+
     libBo.AutreClass1 = class {
 		afficher(){
 			console.log('Console.log de la classe "AutreClasse1"');
